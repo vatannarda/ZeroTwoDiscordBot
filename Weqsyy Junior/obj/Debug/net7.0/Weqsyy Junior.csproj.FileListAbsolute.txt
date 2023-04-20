@@ -1,0 +1,27 @@
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\obj\Debug\net7.0\Weqsyy Junior.csproj.AssemblyReference.cache
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\obj\Debug\net7.0\Weqsyy Junior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\obj\Debug\net7.0\Weqsyy Junior.AssemblyInfoInputs.cache
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\obj\Debug\net7.0\Weqsyy Junior.AssemblyInfo.cs
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\obj\Debug\net7.0\Weqsyy Junior.csproj.CoreCompileInputs.cache
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\Weqsyy Junior.exe
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\Weqsyy Junior.deps.json
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\Weqsyy Junior.runtimeconfig.json
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\Weqsyy Junior.dll
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\Weqsyy Junior.pdb
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\Discord.Net.Commands.dll
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\Discord.Net.Core.dll
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\Discord.Net.Interactions.dll
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\Discord.Net.Rest.dll
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\Discord.Net.Webhook.dll
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\Discord.Net.WebSocket.dll
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\System.Interactive.Async.dll
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\System.Linq.Async.dll
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\bin\Debug\net7.0\System.Reactive.dll
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\obj\Debug\net7.0\Weqsyy Junior.csproj.CopyComplete
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\obj\Debug\net7.0\Weqsyy Junior.dll
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\obj\Debug\net7.0\refint\Weqsyy Junior.dll
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\obj\Debug\net7.0\Weqsyy Junior.pdb
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\obj\Debug\net7.0\Weqsyy Junior.genruntimeconfig.cache
+C:\Users\Freescan\source\repos\Weqsyy Junior\Weqsyy Junior\obj\Debug\net7.0\ref\Weqsyy Junior.dll
